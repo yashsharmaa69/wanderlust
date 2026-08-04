@@ -1,6 +1,6 @@
 # Project Name
 
-`majorproject` is the npm package name in `package.json`. The UI branding used throughout the application is Wanderlust.
+Wanderlust.
 
 # Project Overview
 
@@ -99,7 +99,7 @@ Deployment-related tools:
 The project is organized as an Express MVC-style application:
 
 ```text
-MAJORPROJECT/
+WANDERLUST/
 ├── app.js
 ├── cloudConfig.js
 ├── middleware.js
@@ -138,7 +138,7 @@ Important modules and responsibilities:
 
 ```bash
 git clone <repository-url>
-cd <project-folder>
+cd wanderlust
 npm install
 ```
 
