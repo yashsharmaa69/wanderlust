@@ -6,6 +6,10 @@ Wanderlust.
 
 This is a Node.js + Express travel listing application for creating, viewing, editing, and deleting property listings, along with user accounts and review posting. It is built for authenticated users who want to publish listings and for visitors who want to browse listings and read reviews.
 
+# Live Demo
+
+- Live site: https://wanderlust-0p62.onrender.com
+
 # Features
 
 Implemented features:
