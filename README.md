@@ -137,7 +137,7 @@ Important modules and responsibilities:
 # Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/yashsharmaa69/wanderlust.git
 cd wanderlust
 npm install
 ```
